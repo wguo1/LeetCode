@@ -22,6 +22,7 @@ The median is (2 + 3)/2 = 2.5
 
 
 ### Answer Description
+#### Author: William Guo
 ```python
 n = length of nums1
 m = length of nums2

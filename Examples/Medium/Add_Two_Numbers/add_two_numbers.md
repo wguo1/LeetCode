@@ -13,6 +13,7 @@ Explanation: 342 + 465 = 807.
 
 
 ### Answer Description
+#### Author: William Guo
 ```python
 n = max{length of l1, length of l2}
 Asymptotic Runtime: O(n)

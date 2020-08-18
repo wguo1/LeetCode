@@ -14,6 +14,7 @@ return [0, 1].
 
 
 ### Answer Description
+#### Author: William Guo
 ```python
 n: length of nums
 Asymptotic Runtime: O(n)
