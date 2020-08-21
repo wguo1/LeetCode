@@ -1,1 +1,3 @@
 # LeetCode
+
+This is a repo to evaluate different Leetcode problems with answers done in Python. I also added a explanation of how the code operates as well as the runtime/memory complexity. There is also a problem description as provided by Leetcode in a markdown file along with the premenioned answer explanation. The problems are seperated into `Easy`, `Medium` and `Hard` categories classified by Leetcode.
