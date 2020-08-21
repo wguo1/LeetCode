@@ -13,7 +13,7 @@ class Solution:
         if (neg):
             rev *= -1
         
-        if (rev < ((1 << 31) - 1) and rev > (-1 << 31)):
+        if ((-1 << 31) < rev < ((1 << 31) - 1)):
             return rev
         else:
             return 0
