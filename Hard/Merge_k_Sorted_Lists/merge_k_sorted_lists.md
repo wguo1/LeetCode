@@ -1,4 +1,4 @@
-# Merge k Sorted Lists
+# 23. Merge k Sorted Lists
 
 Given an array of linked-lists lists, each linked list is sorted in ascending order.
 
@@ -49,4 +49,4 @@ Asymptotic Runtime: O(log(x) * n)
 Memory: O(log(x) * y)
 ```
 
-Use a merge sort concept in answering this question. Split lists into sub operations where each recursive operation will only act when there are 2 or less elements. Then use a preexisting function from xyz to perform the actual sorting operation.
+Use a merge sort concept in answering this question. Split lists into sub operations where each recursive operation will only act when there are 2 or less elements. Then use a preexisting function from a Leetcode answer that solved the question: ["Merge Two Sorted Lists"](https://github.com/wguo1/LeetCode/blob/master/Easy/Merge_Two_Sorted_Lists/merge_two_sorted_lists.py) to do the actual sorting.
